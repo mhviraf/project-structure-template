@@ -1,0 +1,1 @@
+Store raw data here i.e. data that hasn't undergone any preprocessing.
